@@ -106,7 +106,15 @@ Pertama untuk rute yang kelompok kami gunakan adalah sebagai berikut : </br>
 <img width="1000" alt="RK" src="https://github.com/bilaaripa/Jarkom-Modul-4-A06-2023/assets/91377793/d56d789f-68cb-4f2f-a307-e83bc31eaf74"></br>
 
 ### Tree
+
+Setelah menggabungkan alamat IP, kemudian dilakukan pembagian IP dengan memanfaatkan Tree pada setiap kelompok yang sebelumnya telah dibentuk sebagai berikut :</br>
+
 ![A06 - Modul 4 - Tree CPT](https://github.com/bilaaripa/Jarkom-Modul-4-A06-2023/assets/91377793/18b3e878-ad11-4b8a-8628-ea8a8b7b5e71)
 
 ### Pembagian IP
+
+Pembagian IP berdasarkan Tree yang telah dibuat adalah sebagai berikut :</br>
+
+<img width="1000" alt="pembagian ip" src="https://github.com/bilaaripa/Jarkom-Modul-4-A06-2023/assets/91377793/debfa1dd-7114-4038-83e3-b8b1ad787c2f"></br>
+
 ## Kendala
