@@ -38,5 +38,7 @@
 ## CIDR
 ### Penggabungan IP
 ### Tree
+![A06 - Modul 4 - Tree CPT](https://github.com/bilaaripa/Jarkom-Modul-4-A06-2023/assets/91377793/18b3e878-ad11-4b8a-8628-ea8a8b7b5e71)
+
 ### Pembagian IP
 ## Kendala
