@@ -8,7 +8,7 @@
 | 5025211254 | Yusna Millaturrosyidah      |
 
 ## Daftar Isi
-- [Topologi PKT CIDR](#topologi-pkt-cidr)
+- [Topologi CPT CIDR](#topologi-cpt-cidr)
 - [Topologi GNS VLSM](#topologi-gns-vlsm)
 - [Prefix IP](#prefix-ip)
 - [Rute](#rute)
@@ -23,7 +23,9 @@
   - [Tree](#tree)
   - [Pembagian IP](#pembagian-ip)
 
-## Topologi PKT CIDR
+## Topologi CPT CIDR
+<img width="468" alt="topologi cpt" src="https://github.com/bilaaripa/Jarkom-Modul-4-A06-2023/assets/91377793/b6269c02-ccee-4666-83a1-2f84b94277d7">
+
 ## Topologi GNS VLSM
 ## Prefix IP
 ## Rute
