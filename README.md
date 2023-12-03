@@ -31,10 +31,10 @@
 ### Tree
 ### Pembagian IP
 ### Konfigurasi Network
-## Kendala
 ### Routing
 ### Testing
 ## CIDR
 ### Penggabungan IP
 ### Tree
 ### Pembagian IP
+## Kendala
