@@ -36,6 +36,10 @@
 ### Routing
 ### Testing
 ## CIDR
+CIDR (Classless Inter-Domain Routing) adalah metode pengalamatan IP yang memungkinkan pengguna untuk mengelompokkan alamat IP ke dalam blok yang lebih besar atau lebih kecil daripada pembagian tradisional berdasarkan kelas (Classful addressing). Dalam CIDR, subnetting dapat dilakukan dengan fleksibilitas tanpa harus tunduk pada batasan kelas A, B, atau C yang konvensional, sehingga memungkinan alokasi alamat IP yang lebih optimal. Notasi CIDR menggunakan format "IP address/prefix length," di mana "prefix length" menentukan jumlah bit yang digunakan untuk mengidentifikasi jaringan, sehingga dapat terbentuk blok-blok alamat dengan panjang yang bervariasi. Dengan demikian, CIDR memberikan solusi untuk permasalahan kehabisan alamat IPv4 dengan memungkinkan penggunaan sumber daya alamat IP yang terbatas dengan lebih efisien dan fleksibel.</br>
+
+Kelebihan dari penerapan CIDR mencakup efisiensi penggunaan alamat IP dan pengurangan pemborosan. Dalam konteks CIDR, tidak perlu lagi mengalokasikan blok alamat IP dengan ukuran yang terikat pada kelas-kelas tertentu. Tidak hanya itu, CIDR juga memberikan dukungan untuk agregasi rute, sebuah aspek yang memfasilitasi penyederhanaan tabel routing di ruang Internet. Melalui penggabungan beberapa blok alamat IP menjadi satu entri routing, CIDR berperan dalam mengurangi kompleksitas tabel routing dan secara efektif meningkatkan kinerja pengelolaan lalu lintas pada tingkat global dalam jaringan.</br>
+
 ### Penggabungan IP
 #### Tampilan Node Awal (A)
 
